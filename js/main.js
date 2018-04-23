@@ -138,7 +138,6 @@ $(function(){
     var typed = new Typed("#addmyname", {
         strings: [
             "free now",
-            "your next developer",
             "Jan",
         ],
         typeSpeed: 70,
